@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uukoozaash.elinamichael.xyz/sitemap.xml
